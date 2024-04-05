@@ -54,3 +54,8 @@ To use the chat with multiple pdfs using gemini pro, follow these steps:
 4. Load multiple PDF documents into the app by following the provided instructions.
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
+
+  ## Screenshot 
+![MultiPDF Chat App UI](./docs/UI.jpg)
+![MultiPDF Chat App UI](./docs/UII.jpg)
+
